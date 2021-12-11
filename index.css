@@ -125,3 +125,54 @@ body{
     font-weight: bolder;
     font-size: 20px;
 }
+
+/* CTA */
+.call-action{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 6% 15%;
+}
+
+.blue-container{
+    border-radius: 5px;
+    background-color: #3882F6;
+    width: 100%;
+    padding: 5% 10%;
+    display: flex;
+    justify-content: space-between;
+    color: #F9FAF8
+}
+
+.blue-container-left-title{
+    font-weight: bold;
+    font-size: 24px;
+
+}
+
+.blue-container-button{
+    background-color: #3882F6;
+    border-style: solid;
+    border-color: #F9FAF8;
+    border-radius: 8px;
+    border-width: 2px;
+    font-weight: bold;
+    padding: 0 4%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 12%;
+}
+
+/* footer */
+
+.footer{
+    background-color: #1F2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #F9FAF8;
+    font-size: 14px;
+    padding: 1.5%;
+}
+
