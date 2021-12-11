@@ -75,7 +75,7 @@ body{
 
 .information{
     text-align: center;
-    padding: 0 20% 6%;
+    padding: 0 24% 6%;
     color: #1F2937;
     
 }
@@ -102,4 +102,26 @@ body{
     border-color: #3882F6;
     margin-bottom: 6%;
     height: 150px;
+}
+
+/* testimonial */
+
+.testimonial{
+    background-color: #E5E7EB;
+    padding: 6% 24% 4.5%;
+}
+
+.quote{
+    text-align: justify;
+    color: #1F2937;
+    font-size: 36px;
+    font-style: italic; 
+}
+
+.author{
+    padding: 2% 0%;
+    display: flex;
+    justify-content: end;
+    font-weight: bolder;
+    font-size: 20px;
 }
